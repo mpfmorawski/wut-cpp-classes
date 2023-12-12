@@ -1,5 +1,8 @@
 # 🎓 _Object-Oriented Programming in C++_ Course at WUT
 
+Welcome to my repository documenting the code and projects from my academic course _Object-Oriented Programming in C++_.
+This course was completed as part of a master's degree in Robotics and Automatic Control at the Faculty of Power and Aeronautical Engineering of Warsaw University of Technology.
+
 |**Course Details**||
 |:--|---|
 | 📚 Name (🇵🇱) | Programowanie obiektowe w języku C++ |
@@ -7,8 +10,7 @@
 | 📅 Semester | Winter 2020/2021 |
 | 🌐 Language | Polish |
 
-Welcome to my repository documenting the code and projects from my academic course _Object-Oriented Programming in C++_.
-This course was completed as part of a master's degree in Robotics and Automatic Control at the Faculty of Power and Aeronautical Engineering of Warsaw University of Technology.
+---
 
 ## 📚 Labs
 
