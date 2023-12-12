@@ -22,11 +22,10 @@ This course was completed as part of a master's degree in Robotics and Automatic
 - **Lab6**: [https://github.com/programowanie-obiektowe-cpp-classes/lab6-mpfmorawski-pw](https://github.com/programowanie-obiektowe-cpp-classes/lab6-mpfmorawski-pw)
 - **Lab7**: [https://github.com/programowanie-obiektowe-cpp-classes/lab7-mpfmorawski-pw](https://github.com/programowanie-obiektowe-cpp-classes/lab7-mpfmorawski-pw)
 
+## ✏️ Assignment
+
+- **Final Assignment**: [https://github.com/programowanie-obiektowe-cpp-classes/kolokwium-1b-mpfmorawski-pw](https://github.com/programowanie-obiektowe-cpp-classes/kolokwium-1b-mpfmorawski-pw)
 
 ## 🚀 Project
 
 - **Tic-tac-toe**: [https://github.com/mpfmorawski/powjcpp-tic-tac-toe](https://github.com/mpfmorawski/powjcpp-tic-tac-toe)
-
-## ✏️ Assignment
-
-- **Final Assignment**: [https://github.com/programowanie-obiektowe-cpp-classes/kolokwium-1b-mpfmorawski-pw](https://github.com/programowanie-obiektowe-cpp-classes/kolokwium-1b-mpfmorawski-pw)
